@@ -8,6 +8,7 @@
     <AssemblyVersion>3.0.1.0</AssemblyVersion>
     <Version>3.0.1</Version>
     <Copyright>Copyright © amay077. 2016 - 2018</Copyright>
+    <PackOnBuild>true</PackOnBuild>
   </PropertyGroup>
 
   <ItemGroup>
